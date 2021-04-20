@@ -1,0 +1,18 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "server.js",
+  "scripts": { 
+    "start": "node server.js" 
+  },
+  "keywords": [
+    "API",
+    "json"
+  ],
+  "author": "Daniel Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
